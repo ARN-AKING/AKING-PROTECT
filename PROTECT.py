@@ -22,7 +22,7 @@ def Run():
             xoss("\x1b[1;92m[◇] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[◇] Your Device 32 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[◇] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
-            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/")waitupdate()
+            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/");waitupdate()
             import AKINGPRO32
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
