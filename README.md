@@ -21,7 +21,7 @@ DATA SAVE PRPTECT USE BYPASS NO REMOVAL
 - `pip install requests`
 - `pip install mechanize`
 - `git clone --depth=1 https://github.com/ARN-AKING/AKING-PROTECT.git`
-- `cd AKING-PROETCT`
+- `cd AKING-PROTECT`
 - `python PROTECT.py`
 
 
