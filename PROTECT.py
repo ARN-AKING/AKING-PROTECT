@@ -13,7 +13,7 @@ def Run():
             xoss("\x1b[1;92m[◇] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[◇] Your Device 64 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[◇] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
-            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/");Update()
+            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/");
             import APKING64
 
         elif bit == '32bit':
